@@ -2,6 +2,13 @@
 
 Welcome to **ChatPad AI**, the web application that revolutionizes the way you interact with documents and web content! With ChatPad AI, you can upload a PDF or provide a URL, and engage in a natural conversation with the content. Whether you need to extract specific information, clarify complex topics, or simply explore a document in-depth, ChatPad AI makes it effortless and intuitive.
 
+
+<div style="display: flex;">
+    <img src="images/msgresponse.png" alt="Image 1" style="flex: 1; margin-right: 10px;">
+    <img src="images/urlchat.png" alt="Image 2" style="flex: 1; margin-left: 10px;">
+</div>
+
+
 ## Features
 
 - **AI-Powered PDF Interaction**: Upload a PDF and ask questions about its content, receiving intelligent responses as if you were chatting with an expert.
